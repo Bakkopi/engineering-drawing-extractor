@@ -34,4 +34,4 @@ pip install opencv-python pytesseract numpy openpyxl matplotlib
 ```
 
 ## Sample Outputs
-![Sample outputs for engineering drawing extractor](images\drawing-extraction-sample.png)
+![Sample outputs for engineering drawing extractor](images/drawing-extraction-sample.png)
